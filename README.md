@@ -1,6 +1,8 @@
 # Neural-Style-Transfer
 My attempt at transferring stylistic details from one image to another image, generating a new image drawn in the style of the first with content similar to the second.
 
+(To find the project, select the "master" branch instead of the "main" branch).
+
 About the project
 I've implemented a Neural Style Transfer using PyTorch on Google Colab. All the image files that I have used or loaded into the notebook are present in the same directory as this file.
 
